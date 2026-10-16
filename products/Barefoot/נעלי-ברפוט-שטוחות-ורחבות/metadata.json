@@ -1,0 +1,6 @@
+{
+  "name": "נעלי ברפוט שטוחות ורחבות",
+  "description": "עמוד מוצר חווייתי, מעוצב ומניע לפעולה עבור נעלי Barefoot שטוחות ורחבות עם גלריית תמונות, מחשבון מידות אינטראקטיבי וסימולטור רכישה מושלם.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
